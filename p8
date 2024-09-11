@@ -17,15 +17,15 @@
     "phone": "1-770-736-8031 x56442",
     "website": "hildegard.org",
     "company": {
-      "name": "Romaguera-Crona",
+      "name": "dev",
       "catchPhrase": "Multi-layered client-server neural-net",
       "bs": "harness real-time e-markets"
     }
   },
   {
     "id": 2,
-    "name": "Ervin Howell",
-    "username": "Antonette",
+    "name": "tapan",
+    "username": "rajguru",
     "email": "Shanna@melissa.tv",
     "address": {
       "street": "Victor Plains",
@@ -47,8 +47,8 @@
   },
   {
     "id": 3,
-    "name": "Clementine Bauch",
-    "username": "Samantha",
+    "name": "kris",
+    "username": "donga",
     "email": "Nathan@yesenia.net",
     "address": {
       "street": "Douglas Extension",
@@ -70,8 +70,8 @@
   },
   {
     "id": 4,
-    "name": "Patricia Lebsack",
-    "username": "Karianne",
+    "name": "heet",
+    "username": "chopper",
     "email": "Julianne.OConner@kory.org",
     "address": {
       "street": "Hoeger Mall",
@@ -93,8 +93,8 @@
   },
   {
     "id": 5,
-    "name": "Chelsey Dietrich",
-    "username": "Kamren",
+    "name": "kris",
+    "username": "thumer",
     "email": "Lucio_Hettinger@annie.ca",
     "address": {
       "street": "Skiles Walks",
